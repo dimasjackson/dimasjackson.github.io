@@ -18,7 +18,7 @@ Provide details about your second project. Explain what problem it solves or wha
 
 Check out my latest blog posts:
 
-- [Post 1: Title of the first post](blog/post1.md)
+- [Post 1: Title of the first post](projects/test.md)
 - [Post 2: Title of the second post](blog/post2.md)
 
 ## Contact
