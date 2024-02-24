@@ -1,8 +1,9 @@
 # Welcome to portfolio!
 
 ## About Me
-
+<div style="text-align: justify"> 
 Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing ETL robust pipelines, improve large data load performance and enhance data governance and quality are some of my abilities. Check out some projects I participate:
+</div>
 
 ## Projects
 
@@ -25,15 +26,13 @@ This project is an ecosystem of procedures and functions in PL/SQL for processin
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/36eeb448-cf65-4fe0-9d6c-9100461d3797" width="500" />
 </center>
-
+<div style="text-align: justify"> 
 I design and build several ETL workflows, extracting data from different sources like CRM systems APIs, SQL databases and the Enterprise Data Warehouse. The extracted data was cleaned, normalized and loaded into a secure workspace for analytics and BI development. This strategy improved the efficiency in delivering high quality data trough different sectors of the company and increased the confiedence of the analysis that have been carried out. Also, I contributed to the standard polices of the organization in data delivering, elevating the level of Data Governance and Compliance.  
+</div>
 
-## Blog
+## More projects
 
-Check out my latest blog posts:
-
-- [Post 1: Title of the first post](projects/test.md)
-- [Post 2: Title of the second post](blog/post2.md)
+[Check out more projects that I worked!](projects/test.md)
 
 ## Contact
 
