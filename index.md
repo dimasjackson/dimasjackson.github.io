@@ -1,6 +1,9 @@
-# "Tools don't solve problems"
+# "Tools don't solve problems."
 
 ## About Me
+
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
+
 <div style="text-align: justify"> 
 Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I participated!
 </div>
