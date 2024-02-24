@@ -1,8 +1,8 @@
-# Welcome to portfolio!
+# "Tools don't solve problems"
 
 ## About Me
 <div style="text-align: justify"> 
-Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing ETL robust pipelines, improve large data load performance and enhance data governance and quality are some of my abilities. Check out some projects I participate:
+Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I participated!
 </div>
 
 ## Projects
