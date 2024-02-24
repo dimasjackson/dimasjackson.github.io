@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+title: Data Engineer Portfolio
+author:
+  name: Dimas Jackson
+  email: dimas.jackson.ds@gmail.com
+description: "My portfolio"
