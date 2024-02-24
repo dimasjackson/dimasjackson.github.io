@@ -1,4 +1,4 @@
-# Brazilian-Denominational-Schools-Analysis
+# Brazilian Denominational Schools Analysis
 ![image](https://user-images.githubusercontent.com/114688989/232519389-eddfc255-5b75-413e-b1c4-f7b3d258f16d.png)
 
 Situation: In this project, data from the 2021 school census provided by INEP was analyzed to identify and obtain information about the functioning of evangelical denominational schools in Brazil for the [Association of Christian Schools International ACSI](https://www.acsi.org/).
