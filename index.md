@@ -35,7 +35,7 @@ I design and build several ETL workflows, extracting data from different sources
 
 ## More projects
 
-[Check out more projects that I worked!](projects/test.md)
+[Check out more projects that I worked!](projects/scholar-census.md)
 
 ## Contact
 
