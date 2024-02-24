@@ -1,4 +1,3 @@
-# Dimas Jackson, M. S.
 <p align="justify" >
 Hello! I'm a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State University. I look for innovative solutions in data processing such as the use of language models (such as chat GPT) in the business sphere and Semantic Web technologies (Knowledge Graphs, RDF , Wikibase). Simultaneously, I have been working on an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database, combining the best features of both paradigms. Additionally, I design workflows for extracting, transforming and loading data using PostgreSQL, Python programming and the low-code KNIME Analytics tool. I have experience with Machine Learning and Power BI interactive dashboards to transform data into insights! 
 </p>
