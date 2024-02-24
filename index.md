@@ -25,7 +25,7 @@ This project is an ecosystem of procedures and functions in PL/SQL for processin
 ![Static Badge](https://img.shields.io/badge/AWS-Cloud-green)
 ![Static Badge](https://img.shields.io/badge/PgSQL-PL-green)
 
-### 2. Data Extraction, Transforming and Load (ETL)
+### Data Extraction, Transforming and Load (ETL)
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/36eeb448-cf65-4fe0-9d6c-9100461d3797" width="500" />
 </center>
