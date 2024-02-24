@@ -1,7 +1,3 @@
-layout: page
-title: "Enterprise Service Bus Functions and Procedures"
-permalink: /projects/esb/
-
 # Enterprise Service Bus Functions and Procedures
 Functions and storage procedures for an Enterprise Service Bus - ESB interface to a relational database[^1].
 
