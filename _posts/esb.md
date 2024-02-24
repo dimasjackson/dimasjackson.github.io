@@ -1,3 +1,8 @@
+layout: post
+title: "POST-TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+
 # Enterprise Service Bus Functions and Procedures
 Functions and storage procedures for an Enterprise Service Bus - ESB interface to a relational database[^1].
 
