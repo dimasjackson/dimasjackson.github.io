@@ -1,11 +1,11 @@
-# "Tools don't solve problems."
+### "Tools don't solve problems."
 
 ## About Me
 
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
 <div style="text-align: justify"> 
-Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I participated!
+Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I worked!
 </div>
 
 ## Projects
@@ -16,7 +16,19 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 </center>
 
 <div style="text-align: justify"> 
-This project is an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database, combining the best features of both paradigms. This project allowed the company data to be processed and updated much faster and with better reliability. The functions and procedures increased the performance by up to 400% across data loads and reduced the cost to get data. Improoving the processing and storage we achieved better data quality, allowing more confident data driven decisions. 
+<b>Situation:</b> With the implemententation of the new ERP, the company identified the necessity for integration of hundreds of legacy system and the construction of a Enterprise Service Bus - ESB, to remove data silos. 
+</div>
+
+<div style="text-align: justify"> 
+<b>Task:</b> The data coming from ESB APIs had to be processed and storage with efficiency, being transformed from JSON documents into a structured database, to allow consulting and  near real time update.  
+</div>
+
+<div style="text-align: justify"> 
+<b>Action:</b> Our team designed and built an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database in AWS, combining the best features of both paradigms.
+</div>
+
+<div style="text-align: justify"> 
+<b>Result :</b> This project allowed the company data to be processed and updated much faster and with better reliability. The functions and procedures increased the performance by up to 400% across data loads and reduced the cost to retrieve data. Improoving the processing and storage we achieved faster data delivery for analytics and BI. Also, a better data quality was reached, since the data was standardized and integrated, allowing more confident data driven decisions. 
 </div>
 
 #### Tools
