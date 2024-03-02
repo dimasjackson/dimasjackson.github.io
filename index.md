@@ -42,6 +42,11 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
   
 **Result:** This strategy improved the efficiency in delivering high quality data for different teams of the company and increased the confiedence of the analysis that have been carried out. Also, I contributed to the standard polices of the organization in data delivering, elevating the level of Data Governance and Compliance.  
 
+#### Tools
+![Static Badge](https://img.shields.io/badge/Postgres-SQL-green)
+![Static Badge](https://img.shields.io/badge/SQL%20Server-SQL-green)
+![Static Badge](https://img.shields.io/badge/KNIME-Low%20code-green)
+![Static Badge](https://img.shields.io/badge/Jupyter%20Lab-Python-green)
 
 ## More projects
 
