@@ -12,4 +12,4 @@ Most of these schools are maintained by private companies or non-profit institut
 Over half of the schools use the internet in the teaching and learning process, and most do not have nutritionists, speech therapists, social workers, and psychologists. 
 The project recommends that ACSI develop materials and services aimed at the profile of schools described above, and projects be designed to raise awareness about the importance of Christian education in the final years of primary, secondary, and technical education. As a result, we provided to ACSI a report with the complete description of the schools and a interactive dashboard for future queries with 2022 updated data.
 
-[back](./)
+[back](../)
