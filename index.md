@@ -29,6 +29,25 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 ![Static Badge](https://img.shields.io/badge/AWS-Cloud-green)
 ![Static Badge](https://img.shields.io/badge/PgSQL-PL-green)
 
+### Knowlegde Graph Questions and Answers System 
+<center>
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5010689f-a0e6-43a1-9cc7-2c2d77742ea0" width="600" />
+</center>
+
+**Situation:**  The need arises to enhance user interaction by enabling natural language questions and answers within the Wikibase platform. This will facilitate a more user-friendly and intuitive experience for accessing information stored in the Enterprise Knowledge Graph.
+
+**Task:** Create a Wikibase LangChain agent, an intelligent natural language processing system, that can understand and respond to user queries in a conversational manner. The goal is to improve the accessibility of information stored in the private Wikibase instance, making it easier for users to retrieve relevant data through natural language interactions.
+
+**Action:** I conducted a thorough analysis of existing natural language processing (NLP) technologies and solutions and evaluate potential tools and frameworks suitable for integrating NLP capabilities into the Wikibase environment. Now I am implementing the necessary NLP components using state-of-the-art algorithms and models, and integrating the LangChain agent with the private Wikibase instance, ensuring compatibility and security measures are in place.
+  
+**Result:** The Wikibase LangChain agent have been deployed in the private Wikibase instance, enabling users to interact with the system using natural language queries. This will result in a more user-friendly and accessible environment, enhancing the overall user experience within the organization. The stakeholders will be able to ask questions in a conversational manner and receive relevant information from the Wikibase instance, fostering increased efficiency and engagement with the data stored in the Knowledge Graph without the necessity of learning SPARQL language or call analysts to answer simple business questions. 
+
+#### Tools
+![Static Badge](https://img.shields.io/badge/LangChain-Python-green)
+![Static Badge](https://img.shields.io/badge/Google%20Gemini-LLM-green)
+![Static Badge](https://img.shields.io/badge/Ollama-AI-green)
+![Static Badge](https://img.shields.io/badge/Wikibase-SPARQL-green)
+
 ### Data Extraction, Transforming and Load (ETL)
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/36eeb448-cf65-4fe0-9d6c-9100461d3797" width="500" />
