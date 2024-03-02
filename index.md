@@ -67,13 +67,12 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 ![Static Badge](https://img.shields.io/badge/KNIME-Low%20code-green)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Lab-Python-green)
 
-## More projects
 
 [Check out more projects that I worked!](projects/more-projects.md)
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimas-jackson). I'm always open to interesting discussions and collaborations!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimas-jackson) or contact by email [dimas.jackson.ds@gmail.com](mailto:dimas.jackson.ds@gmail.com). I'm always open to interesting discussions and collaborations!
 
 Thanks for visiting!
 
