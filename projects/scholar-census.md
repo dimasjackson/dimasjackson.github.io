@@ -1,4 +1,5 @@
-# Denominational Schools Analysis
+# More projects!
+## Denominational Schools Analysis
 ![image](https://user-images.githubusercontent.com/114688989/232519389-eddfc255-5b75-413e-b1c4-f7b3d258f16d.png)
  
 **Situation:** In this project, data from the 2021 school census, was analyzed to identify and obtain information about the profile of evangelical denominational schools in Brazil for the [Association of Christian Schools International ACSI](https://www.acsi.org/).
@@ -12,7 +13,7 @@ Most of these schools are maintained by private companies or non-profit institut
 Over half of the schools use the internet in the teaching and learning process, and most do not have nutritionists, speech therapists, social workers, and psychologists. 
 The project recommends that ACSI develop materials and services aimed at the profile of schools described above, and projects be designed to raise awareness about the importance of Christian education in the final years of primary, secondary, and technical education. As a result, we provided to ACSI a report with the complete description of the schools and a interactive dashboard for future queries with 2022 updated data.
 
-# Estimation of the Fraction of Matter and Energy of the Universe
+## Estimation of the Fraction of Matter and Energy of the Universe
 ![Captura de Tela 2024-03-02 às 14 35 44](https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/afbf936c-af90-46b4-9b09-83fda34ccc25)
 
 
@@ -36,7 +37,8 @@ $H_0 = 68.712^{+6.552}_{−6.497}{\rm km/s/Mpc}$
 
 which agree with the direct observation of these parameters released by th Planck Satelite collaboration (2018): $H_0 = (67.4\pm0.5){\rm km/s/Mpc};  \Omega_m=0.315\pm0.007$ and $\Omega_\Lambda = 1 - \Omega_m$. See the complete [project repository.](https://github.com/dimasjackson/Supernovae-Analysis-with-MCMC)
 
-# Space X Falcon 9 Landing Success Analysis
+## Space X Falcon 9 Landing Success Analysis
+
 <img src=https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5efc1810-0663-4894-8338-a0c14b2bdd14 width="700" img/>
 
 **Situation:** This project is a predictive analysis of the Space X Falcon 9 success landing rate for IBM Data Science Certification final capstone.
