@@ -50,7 +50,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ## More projects
 
-[Check out more projects that I worked!](projects/scholar-census.md)
+[Check out more projects that I worked!](projects/more-projects.md)
 
 ## Contact
 
