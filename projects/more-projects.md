@@ -39,7 +39,7 @@ which agree with the direct observation of these parameters released by th Planc
 
 ## Space X Falcon 9 Landing Success Analysis
 
-<img src=https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5efc1810-0663-4894-8338-a0c14b2bdd14 width="600" img/>
+<img src=https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5efc1810-0663-4894-8338-a0c14b2bdd14 width="600" />
 
 **Situation:** This project is a predictive analysis of the Space X Falcon 9 success landing rate for IBM Data Science Certification final capstone.
 
