@@ -12,7 +12,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Enterprise Service Bus Functions and Procedures
 <center>
-<img src="https://github.com/dimasjackson/Enterprise-Service-Bus-functions/assets/114688989/011c4c76-829f-4733-a0b1-baa1cd43fd75" width="500" /> 
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/b9f39109-c3fb-44a8-8712-51a97cd3ee3f" width="500" /> 
 </center>
 
 **Situation:** With the implemententation of the new ERP, the company identified the necessity for integration of hundreds of legacy system and the construction of a Enterprise Service Bus - ESB, to remove data silos. 
@@ -31,7 +31,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Knowlegde Graph Questions and Answers System 
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5010689f-a0e6-43a1-9cc7-2c2d77742ea0" width="600" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5dce11a0-8c74-45fc-9387-de3279164ed7" width="500" />
 </center>
 
 **Situation:**  The need arises to enhance user interaction by enabling natural language questions and answers within the Wikibase platform. This will facilitate a more user-friendly and intuitive experience for accessing information stored in the Enterprise Knowledge Graph.
@@ -50,16 +50,16 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Data Extraction, Transforming and Load (ETL)
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/36eeb448-cf65-4fe0-9d6c-9100461d3797" width="500" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/33c16312-7583-42f6-a0f1-6abfd719fbbe" width="500" />
 </center>
 
-**Situation:** Other company teams needs data with better quality and compliance, delivered fast and in a secure environment to be analised.
+**Situation:** The company’s teams need data of better quality and compliance, delivered quickly and in a secure environment for analysis.
 
-**Task:** Different data sources had to be integrated into pipelines which should be able to clean, anonimyze and load data to third part platfoms.  
+**Task:** We had to integrate different data sources into pipelines capable of cleaning, anonymizing, and loading data to third-party platforms.
 
-**Action:** I design and build several ETL workflows, extracting data from different sources like CRM systems APIs, SQL databases and the Enterprise Data Warehouse. I combined different SQL tools such as Microsoft SQL Server, PostgreSQL and MySQL with the versatile and low code Knime Analytics tool. The extracted data was cleaned, normalized and loaded into a secure workspace for analytics and BI development, into a Microsoft Power BI Workspace.
-  
-**Result:** This strategy improved the efficiency in delivering high quality data for different teams of the company and increased the confiedence of the analysis that have been carried out. Also, I contributed to the standard polices of the organization in data delivering, elevating the level of Data Governance and Compliance.  
+**Action:** I designed and built several ETL pipelines, extracting data from various sources such as CRM system APIs, SQL databases, and the Enterprise Data Warehouse. I combined different SQL tools, including Microsoft SQL Server, PostgreSQL, and MySQL, with the versatile and low-code Knime Analytics Platform. The extracted data was cleaned, normalized, and loaded into a secure workspace for analytics and BI development within a Microsoft Power BI Workspace.
+
+**Result:** This strategy significantly improved the efficiency of delivering high-quality data to different teams within the company. It also boosted confidence in the analyses conducted. Additionally, I contributed to standardizing the organization’s data delivery policies, thereby enhancing Data Governance and Compliance. 
 
 #### Tools
 ![Static Badge](https://img.shields.io/badge/Postgres-SQL-green)
@@ -67,6 +67,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 ![Static Badge](https://img.shields.io/badge/KNIME-Low%20code-green)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Lab-Python-green)
 
+## More Projects
 
 [Check out more projects that I worked!](projects/more-projects.md)
 
