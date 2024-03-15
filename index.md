@@ -12,7 +12,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Enterprise Service Bus Functions and Procedures
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/b9f39109-c3fb-44a8-8712-51a97cd3ee3f" width="500" /> 
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/0fe15845-f07d-4a64-b183-351593408c6f" width="500" /> 
 </center>
 
 **Situation:** With the implemententation of the new ERP, the company identified the necessity for integration of hundreds of legacy system and the construction of a Enterprise Service Bus - ESB, to remove data silos. 
@@ -31,7 +31,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Knowlegde Graph Questions and Answers System 
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/5dce11a0-8c74-45fc-9387-de3279164ed7" width="500" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/81ae7392-883c-45bc-81cc-2323d8a27afd" width="500" />
 </center>
 
 **Situation:**  The need arises to enhance user interaction by enabling natural language questions and answers within the Wikibase platform. This will facilitate a more user-friendly and intuitive experience for accessing information stored in the Enterprise Knowledge Graph.
@@ -48,9 +48,9 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 ![Static Badge](https://img.shields.io/badge/Ollama-AI-green)
 ![Static Badge](https://img.shields.io/badge/Wikibase-SPARQL-green)
 
-### Data Extraction, Transforming and Load (ETL)
+### Data Extraction, Transforming and Load (ETL) Pipelines
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/33c16312-7583-42f6-a0f1-6abfd719fbbe" width="500" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/d62fd12b-5568-4d3c-9f0d-0cb8325e2c9c" width="500" />
 </center>
 
 **Situation:** The company’s teams need data of better quality and compliance, delivered quickly and in a secure environment for analysis.
@@ -69,7 +69,10 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ## More Projects
 
-[Check out more projects that I worked!](projects/more-projects.md)
+* [Denominational School Analysis](projects/school.md)
+* [Estimation of the Fraction of Matter and Energy of the Universe](projects/universe.md)
+* [Space X Falcon 9 Landing Success Prediction](projects/spacex.md)
+* [YouTube Channel Evolution During Pandemics](projects/youtube.md)
 
 ## Contact
 
