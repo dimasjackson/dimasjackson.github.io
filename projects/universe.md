@@ -22,7 +22,7 @@ See the complete [project repository.](https://github.com/dimasjackson/Supernova
 
 * [Denominational School Analysis](projects/school.md)
 * [Estimation of the Fraction of Matter and Energy of the Universe](projects/universe.md)
-* [Space X Falcon 9 Landing Success Analysis](projects/spacex.md)
+* [Space X Falcon 9 Landing Success Prediction](projects/spacex.md)
 * [YouTube Channel Evolution During Pandemics](projects/youtube.md)
 
 ## Contact
