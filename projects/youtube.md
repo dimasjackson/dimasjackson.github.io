@@ -15,10 +15,10 @@ Nonetheless, notable trends were observed, such as a stable percentage of likes 
 
 ## More Projects
 
-* [Denominational School Analysis](projects/school.md)
-* [Estimation of the Fraction of Matter and Energy of the Universe](projects/universe.md)
-* [Space X Falcon 9 Landing Success Prediction](projects/spacex.md)
-* [YouTube Channel Evolution During Pandemics](projects/youtube.md)
+* [Denominational School Analysis](./school.md)
+* [Estimation of the Fraction of Matter and Energy of the Universe](./universe.md)
+* [Space X Falcon 9 Landing Success Prediction](./spacex.md)
+* [YouTube Channel Evolution During Pandemics](./youtube.md)
 
 ## Contact
 
