@@ -1,5 +1,8 @@
 ## A YouTube Channel Evolution During Covid-19 Pandemic: From 100 to 4.5M subscribers!
-![Captura de Tela 2024-03-15 às 07 49 01](https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/d3f9704a-d4f0-4472-93e6-51f221857da6)
+
+<center>
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/d3f9704a-d4f0-4472-93e6-51f221857da6" width=400/>
+</center>
 
 **Situation:** The project required leveraging the YouTube API to gather channel data and conducting exploratory data analysis to estimate revenue and gain insights into viewership trends.
 
