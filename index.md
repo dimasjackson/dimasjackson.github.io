@@ -1,25 +1,24 @@
 ### "Tools don't solve problems."
 
-## About Me
-
+## About Me 🧔🏻‍♂️
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
 <div style="text-align: justify"> 
 Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I worked!
 </div>
 
-## Projects
+## Projects 📊
 
 ### Enterprise Service Bus Functions and Procedures
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/0fe15845-f07d-4a64-b183-351593408c6f" width="500" /> 
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/ff4d16c9-f077-4f90-a31b-f7171ed47bbf" width="400" /> 
 </center>
 
 **Situation:** With the implemententation of the new ERP, the company identified the necessity for integration of hundreds of legacy system and the construction of a Enterprise Service Bus - ESB, to remove data silos. 
 
 **Task:** The data coming from ESB APIs had to be processed and storage with efficiency, being transformed from JSON documents into a structured database, to allow retrieval and  near real time update.
 
-**Action:** Our team designed and built an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database in AWS, combining the best features of both paradigms.
+**Action:** Our team designed and built an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database in AWS cloud serverless database (Amazon RDS), combining the best features of both paradigms.
 
 **Result:** This project allowed the company data to be processed and updated much faster and with better reliability. The functions and procedures increased the performance by up to 400% across data loads and reduced the cost to retrieve data. Improving the processing and storage we achieved faster data delivery for analytics and BI. Also, a better data quality was reached, since the data was standardized and integrated, allowing more confident data driven decisions. 
 
@@ -31,7 +30,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Knowlegde Graph Questions and Answers System 
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/81ae7392-883c-45bc-81cc-2323d8a27afd" width="500" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/044daa6e-17dc-4679-b997-3581998febf1" width="400" />
 </center>
 
 **Situation:**  The need arises to enhance user interaction by enabling natural language questions and answers within the Wikibase platform. This will facilitate a more user-friendly and intuitive experience for accessing information stored in the Enterprise Knowledge Graph.
@@ -50,7 +49,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 
 ### Data Extraction, Transforming and Load (ETL) Pipelines
 <center>
-<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/d62fd12b-5568-4d3c-9f0d-0cb8325e2c9c" width="500" />
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/00df3dcc-4bab-4bbc-afa7-169835b65001" width="400" />
 </center>
 
 **Situation:** The company’s teams need data of better quality and compliance, delivered quickly and in a secure environment for analysis.
@@ -67,14 +66,14 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo St
 ![Static Badge](https://img.shields.io/badge/KNIME-Low%20code-green)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Lab-Python-green)
 
-## More Projects
+## More Projects 🚀
 
 * [Denominational School Analysis](projects/school.md)
 * [Estimation of the Fraction of Matter and Energy of the Universe](projects/universe.md)
 * [Space X Falcon 9 Landing Success Prediction](projects/spacex.md)
 * [YouTube Channel Evolution During Pandemics](projects/youtube.md)
 
-## Contact
+## Contact 📬
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimas-jackson) or contact by email [dimas.jackson.ds@gmail.com](mailto:dimas.jackson.ds@gmail.com). I'm always open to interesting discussions and collaborations!
 
