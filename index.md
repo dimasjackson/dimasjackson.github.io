@@ -4,8 +4,22 @@
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
 <div style="text-align: justify"> 
-Hello there! As a Data Engineer at @Mackenzie and a PhD student at São Paulo State University, I specialize in leveraging cutting-edge technologies to drive innovative solutions in data processing, management and storage! Developing robust ETL pipelines, improving data load performance and the strategic application of Large Language Models, such as Chat GPT, within the business realm, are some of my abilities. Check out some projects I worked!
+Hello there! As a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State University, I look for innovative solutions in data storage and processing such as the Semantic Web technologies (Knowledge Graphs, SPARQL, RDF, Wikibase). Simultaneously, I design workflows for Extracting, Transforming and Loading data (ETL) using PL/SQL (PostgreSQL and MSSQL Server), Python programming and the low-code KNIME Analytics tool. I also have experience with Machine Learning and Power BI interactive dashboards to transform data into insights!
 </div>
+
+![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PL%2FSQL-advanced-green?logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Power%20BI-advanced-green?logo=powerbi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Knime-advanced-green?logo=alchemy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Wikibase-advanced-green?logo=wikidata&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SPARQL-advanced-green?logo=graphql&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Scikit--learn-intermediate-yellow?logo=scikitlearn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-intermediate-yellow?logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-intermediate-yellow?logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-intermediate-yellow?logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bash-intermediate-yellow?logo=gnubash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Cloud-intermediate-yellow?logo=googlecloud&logoColor=white)
 
 ## Projects 📊
 
