@@ -1,5 +1,3 @@
-### "Tools don't solve problems."
-
 ## About Me 🧔🏻‍♂️
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
