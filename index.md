@@ -23,6 +23,26 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD candidate at São Paulo 
 
 ## Projects 📊
 
+### Knowledge Graph Implementation
+<center>
+<img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/a7f89de3-2b20-4434-ad6f-56cea0ce11f2" width="400" /> 
+</center>
+
+**Situation:** In response to the growing complexity of data integration and knowledge management within the organization, there arose a need for a scalable and interoperable solution to facilitate data discovery, integration, and sharing across disparate systems and domains.
+
+**Task:** The task at hand was to design and implement a knowledge graph infrastructure capable of consolidating heterogeneous data sources, enriching data semantics through ontology modeling, and enabling intuitive query capabilities for users across the organization.
+
+**Action:** The project team adopted Protegé as the primary tool for ontology modeling, allowing for the formal representation of domain knowledge and relationships. Wikibase, integrated with MediaWiki, was chosen as the collaborative platform for capturing and curating knowledge artifacts. Open Refine was utilized for data cleaning and preprocessing, ensuring data quality and consistency within the knowledge graph. Furthermore, SPARQL queries were employed to extract insights and perform complex analytics on the knowledge graph. All the components where deployed in Docker containers being highly scalable.
+
+**Result:** Through the successful execution of a proof of concept followed by a four-month pilot phase, the knowledge graph implementation demonstrated its efficacy in enabling seamless data integration, enhancing discoverability, and promoting knowledge sharing across the organization. The project is now poised for production deployment, offering a scalable and robust solution for addressing the organization's evolving data management needs.
+
+#### Tools
+![Static Badge](https://img.shields.io/badge/Protege-RDF-green)
+![Static Badge](https://img.shields.io/badge/BlazeGraph-SPARQL-green)
+![Static Badge](https://img.shields.io/badge/MediaWiki-html-green)
+![Static Badge](https://img.shields.io/badge/Wikibase-php-green)
+![Static Badge](https://img.shields.io/badge/Docker-yml-green)
+
 ### Enterprise Service Bus Functions and Procedures
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/ff4d16c9-f077-4f90-a31b-f7171ed47bbf" width="400" /> 
