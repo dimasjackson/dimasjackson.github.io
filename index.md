@@ -60,7 +60,7 @@ Hello there! As a Data Engineer at @Mackenzie and a PhD candidate at São Paulo 
 ![Static Badge](https://img.shields.io/badge/AWS-Cloud-green)
 ![Static Badge](https://img.shields.io/badge/PgSQL-PL-green)
 
-### Knowlegde Graph Questions and Answers System 
+### Gen AI Chat to Enterprise Data 
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/044daa6e-17dc-4679-b997-3581998febf1" width="400" />
 </center>
