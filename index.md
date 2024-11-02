@@ -2,8 +2,18 @@
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
 <div style="text-align: justify"> 
-Hello there! As a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State University, I look for innovative solutions in data storage and processing such as the Semantic Web technologies (Knowledge Graphs, SPARQL, RDF, Wikibase). Simultaneously, I design workflows for Extracting, Transforming and Loading data (ETL) using PL/SQL (PostgreSQL and MSSQL Server), Python programming and the low-code KNIME Analytics tool. I also have experience with Machine Learning and Power BI interactive dashboards to transform data into insights!
-</div>
+  
+Hello! I am starting a new journey in AI systems design at the greatest bank of the Euro Zone (2021), Santander!
+
+I worked to improve data quality/governance at one of the largest private universities in Brazil, @Mackenzie, my expertise is in the design of robust Data Extraction, Transformation and Loading pipelines, strategic application of generative AI (using Langchain, ReAct Agents , embeddings) and building a semantic Data Lake, using Knowledge Graphs and RDFS/OWL.
+
+Additionally, my skills include programming in Python and the efficient low code analysis tool KNIME Analytics. I have experience in Machine Learning and creating interactive dashboards in Power BI, transforming raw data into actionable insights.
+
+I developed a robust ecosystem in the AWS cloud of PL/SQL procedures and functions, specifically designed to process non-relational data from APIs, optimizing data loads by up to 400%.
+
+![ibm-data-science-professional-certificate](https://github.com/user-attachments/assets/ce3bce87-78d1-4133-896e-27c6335df5ad)
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/42de01ac-016e-4c57-852c-667532055954)
+<img src="https://github.com/user-attachments/assets/849a3221-203e-48c9-840a-6038d1bea12b" width="180" />
 
 ![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PL%2FSQL-advanced-green?logo=postgresql&logoColor=white)
