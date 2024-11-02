@@ -2,7 +2,7 @@
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/e0d362d5-8bb9-49ba-8f0d-f5cb0e0d94f5" width="150" />
 
 <div style="text-align: justify"> 
-  
+
 Hello! I am starting a new journey in AI systems design at the greatest bank of the Euro Zone (2021), Santander!
 
 I worked to improve data quality/governance at one of the largest private universities in Brazil, @Mackenzie, my expertise is in the design of robust Data Extraction, Transformation and Loading pipelines, strategic application of generative AI (using Langchain, ReAct Agents , embeddings) and building a semantic Data Lake, using Knowledge Graphs and RDFS/OWL.
@@ -11,11 +11,13 @@ Additionally, my skills include programming in Python and the efficient low code
 
 I developed a robust ecosystem in the AWS cloud of PL/SQL procedures and functions, specifically designed to process non-relational data from APIs, optimizing data loads by up to 400%.
 
+<center>
 <img src="https://github.com/user-attachments/assets/ce3bce87-78d1-4133-896e-27c6335df5ad" width="180" />
 
 <img src="https://github.com/user-attachments/assets/42de01ac-016e-4c57-852c-667532055954" width="180" />
 
 <img src="https://github.com/user-attachments/assets/849a3221-203e-48c9-840a-6038d1bea12b" width="150" />
+</center>
 
 ![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PL%2FSQL-advanced-green?logo=postgresql&logoColor=white)
