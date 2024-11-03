@@ -11,14 +11,6 @@ Additionally, my skills include programming in Python and the efficient low code
 
 I developed a robust ecosystem in the AWS cloud of PL/SQL procedures and functions, specifically designed to process non-relational data from APIs, optimizing data loads by up to 400%.
 
-<center>
-<img src="https://github.com/user-attachments/assets/ce3bce87-78d1-4133-896e-27c6335df5ad" width="180" />
-
-<img src="https://github.com/user-attachments/assets/42de01ac-016e-4c57-852c-667532055954" width="180" />
-
-<img src="https://github.com/user-attachments/assets/849a3221-203e-48c9-840a-6038d1bea12b" width="150" />
-</center>
-
 ![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PL%2FSQL-advanced-green?logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Power%20BI-advanced-green?logo=powerbi&logoColor=white)
