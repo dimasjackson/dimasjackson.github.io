@@ -4,12 +4,10 @@
 <div style="text-align: justify"> 
 
 Hello! I am starting a new journey in AI systems design at the greatest bank of the Euro Zone (2021), Santander!
-
 I worked to improve data quality/governance at one of the largest private universities in Brazil, @Mackenzie, my expertise is in the design of robust Data Extraction, Transformation and Loading pipelines, strategic application of generative AI (using Langchain, ReAct Agents , embeddings) and building a semantic Data Lake, using Knowledge Graphs and RDFS/OWL.
-
 Additionally, my skills include programming in Python and the efficient low code analysis tool KNIME Analytics. I have experience in Machine Learning and creating interactive dashboards in Power BI, transforming raw data into actionable insights.
-
 I developed a robust ecosystem in the AWS cloud of PL/SQL procedures and functions, specifically designed to process non-relational data from APIs, optimizing data loads by up to 400%.
+</div>
 
 ![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PL%2FSQL-advanced-green?logo=postgresql&logoColor=white)
