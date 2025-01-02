@@ -1,0 +1,38 @@
+site_name: 'Dimas Jackson, PhD'
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Home: 'index.md'
+  - Projetos: 'projetos.md'
+  - Publicações: 'publicacoes.md'
+  - Certificações: 'certificacoes.md'
+  - Resenhas de Livros: 'resenhas_livros.md'
+  - Contato: 'contato.md'
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+extra_css:
+  - 'styles/custom.css'
+
+extra_javascript:
+  - 'scripts/custom.js'
+
+plugins:
+  - search
+  - minify
+
+# Home Page Content (index.md)
+content_dir: 'docs'
