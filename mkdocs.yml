@@ -5,6 +5,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+site_url: https://dimasjackson.github.io
 
 nav:
   - Home: 'index.md'
