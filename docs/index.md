@@ -28,8 +28,8 @@ Sou casado, cristão presbiteriano e PhD em Física pela Universidade Estadual P
 
 ## Conteúdo do site
 
-- [Projetos](docs/projetos.md)
-- [Publicações](docs/publicacoes.md)
-- [Certificações](docs/certificacoes.md)
-- [Resenhas de livros](docs/resenhas_livros.md)
-- [Contato](docs/contato.md)
+- [Projetos](./projetos.md)
+- [Publicações](./publicacoes.md)
+- [Certificações](./certificacoes.md)
+- [Resenhas de livros](./resenhas_livros.md)
+- [Contato](./contato.md)

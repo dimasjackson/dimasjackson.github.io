@@ -33,6 +33,3 @@ extra_javascript:
 plugins:
   - search
   - minify
-
-# Home Page Content (index.md)
-content_dir: 'docs'
