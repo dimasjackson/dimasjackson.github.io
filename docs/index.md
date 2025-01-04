@@ -16,6 +16,8 @@ Seja bem-vindo ao meu espaço pessoal na web! Aqui você encontrará:
 
 Explore as seções acima para saber mais sobre meu trabalho e interesses!
 
+---
+
 ## Sobre mim
 
 Sou arquiteto especialista em IA Generativa em um dos maiores bancos do mundo, o espanhol Santander!
@@ -26,6 +28,8 @@ Anteriormente atuei na melhoria da qualidade/governança de dados em uma das mai
 
 Sou casado, cristão presbiteriano e PhD em Física pela Universidade Estadual Paulista (UNESP). 
 
+--
+
 ## Conteúdo do site
 
 - [Projetos](./projetos.md)
@@ -33,3 +37,13 @@ Sou casado, cristão presbiteriano e PhD em Física pela Universidade Estadual P
 - [Certificações](./certificacoes.md)
 - [Resenhas de livros](./resenhas_livros.md)
 - [Contato](./contato.md)
+
+---
+
+## Visitantes
+
+<div align="left">
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=18258343&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>     
+</div>
