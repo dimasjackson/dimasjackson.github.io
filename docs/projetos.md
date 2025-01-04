@@ -4,6 +4,16 @@
 
 Aqui estão alguns dos projetos em que trabalhei:
 
+
+### Blueprint de arquitetura da plataforma de Gen AI
+<center>
+<img src="images/blueprint.png" width="400" /> 
+</center>
+
+**Situação:** A crescente demanda por soluções baseadas em inteligência artificial generativa (Gen AI) apresenta desafios significativos para organizações globais, que precisam conciliar inovação tecnológica com questões de escalabilidade, interoperabilidade e conformidade regulatória. No entanto, a ausência de um blueprint de arquitetura robusto limita a capacidade de alinhar equipes multidisciplinares distribuídas em diferentes regiões, integrando seus esforços em uma plataforma coesa. Sem uma visão unificada, as iniciativas muitas vezes resultam em silos tecnológicos, inconsistências operacionais e dificuldades em atender às necessidades diversificadas de usuários globais.
+
+**Resultado:** Com a implementação de um blueprint de arquitetura projetado por uma equipe global, é possível alcançar uma plataforma de Gen AI escalável, segura e eficiente, que une os melhores talentos e recursos de diferentes partes do mundo. O blueprint servirá como guia estratégico para estruturar a colaboração entre equipes, definir padrões tecnológicos e garantir a conformidade com regulamentações locais e internacionais. Isso permitirá a entrega de soluções personalizadas e de alto impacto, promovendo inovação, eficiência operacional e maior acessibilidade à inteligência artificial generativa para usuários e organizações em escala global.
+
 ### Implementação de Grafos de Conhecimento
 <center>
 <img src="https://github.com/dimasjackson/dimasjackson.github.io/assets/114688989/a7f89de3-2b20-4434-ad6f-56cea0ce11f2" width="400" /> 

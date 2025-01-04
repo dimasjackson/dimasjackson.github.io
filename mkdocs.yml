@@ -1,11 +1,12 @@
 site_name: 'Dimas Jackson, PhD'
+docs_dir: docs
 theme:
   name: 'material'
   features:
     - navigation.tabs
     - navigation.top
     - toc.integrate
-site_url: https://dimasjackson.github.io
+site_url: https://dimasjackson.github.io/
 
 nav:
   - Home: 'index.md'
