@@ -1,10 +1,14 @@
 # Resenhas de Livros
 
-## Livros que me inspiraram
-
 Aqui estão alguns livros que fizeram parte da minha formação e inspiração:
 
-### Liderança - Paul Tripp
+---
+
+## Liderança - Paul Tripp
+
+<center>
+<img src="images/lideranca.jpeg" width="200" /> 
+</center>
 
 No livro Liderança, o autor Dr. Paul David Tripp traz uma reflexão sobre a funcionalidade e as dificuldades que comunidades de líderes em igrejas cristãs encontram. Sua abordagem é baseada em doze princípios que incluem: a importância do evangelho para nutrir de graça a comunidade, a necessidade de equilíbrio na vocação, a compreensão da limitação dos líderes e a centralidade da presença de Jesus para a superação do pecado e fracasso. O autor traz sua experiência em aconselhamento e acompanhamento de equipes de lideranças para o livro por meio de relatos que fomentaram a sua escrita como também exemplificações da importância de que os membros destas comunidades estejam fundamentados nos princípios bíblicos apresentados. Outros princípios tratados no livro são: a liderança como serviço, a franqueza necessária para uma comunidade de líderes e o recomeço, após uma restauração gerada pelo Evangelho.
 
@@ -14,8 +18,13 @@ Por fim, o autor encoraja as comunidades de liderança cristãs a permanecerem c
 
 O livro traz ensinamentos valiosos para todos que são vocacionados a liderar ou que acompanham de perto um líder, seja em cargos eclesiásticos como presbíteros e diáconos ou mesmo para a liderança familiar. É um livro para ser lido e relido sempre que a comunidade de líderes se esqueça dos princípios ensinados, quando o orgulho e o medo estiverem afastando-os da identidade que pode ser encontrada somente em Jesus. É notória a vitalidade e experiência do autor ao tratar do tema da liderança, seus relatos de aconselhamento e confissões trazem o ensino para uma realidade prática e concreta. Um ponto contraproducente é que o autor é um pouco prolixo, usando vários sinônimos em uma mesma sentença e algumas vezes com repetição de ideias.  
 
+---
 
-### Crer é também pensar - John Stott
+## Crer é também pensar - John Stott
+
+<center>
+<img src="images/crer.jpeg" width="200" /> 
+</center>
 
 Em seu livro Crer é também pensar, John Stott traz uma reflexão sobre a importância da razão para a fé cristã, apresentando argumentos que apontam como fundamentais o uso do intelecto para as doutrinas básicas do cristianismo. Ele destaca essa importância mostrando o dever do homem de pensar e agir em conformidade com seu conhecimento a respeito da criação, queda, redenção e consumação de todas as coisas.
 
@@ -27,7 +36,13 @@ A leitura deste livro me fez atentar para o dever de usarmos nossas mentes e cap
 
 John Stott conclui esse livro com implicações para a nossa vida, mostrando de forma muito objetiva e clara que a aplicação do conhecimento deve nos conduzir a adoração à Deus, reconhecimento de sua grandeza, deve também aumentar a nossa fé e levar-nos a uma busca da santidade cada vez maior. O saber verdadeiro não nos faz arrogantes, pelo contrário nos torna humildes, desfazendo o orgulho e produzindo mais amor à Cristo e aos irmãos e um serviço melhor à Deus. Portanto, não precisamos fugir do conhecimento, mas busca-lo mais, todavia da maneira correta e para a aplicação de acordo com a Palavra de Deus.
 
-### Cartas de um diabo ao seu aprendiz – C. S. Lewis
+---
+
+## Cartas de um diabo ao seu aprendiz – C. S. Lewis
+
+<center>
+<img src="images/cartas.jpeg" width="200" /> 
+</center>
 
 “Cartas de um diabo ao seu aprendiz” de Clive Staples Lewis, trata das tentações que enfrentamos na vida cristã de forma irônica, até mesmo engraçada em alguns momentos, porém bastante profunda e esclarecedora. O livro traz uma série de correspondências enviadas por um diabo mais experiente chamado Screwtape (Maldanado na tradução mais recente) ao seu sobrinho Vermelindo (Wormwood). As cartas contêm instruções ao jovem tentador sobre como desempenhar o trabalho de enredar a alma de seu “paciente”, o homem que é vítima das tentações.
 
@@ -40,3 +55,50 @@ Na Carta XIII o paciente encontra a graça, arrependimento e a renovação. Ele 
 O livro apresenta de forma surpreendente os ardis de Satanás, muitas tentações que estiveram presentes em nossa vida nos levando a pecar e que nunca havíamos percebido são abordadas de forma genial nas cartas. Além das tentações pessoais, as estratégias de ataques ao Cristianismo como um todo são uma forma de alertar a igreja dos perigos e enganos a que ela está sujeita a enfrentar. No início é difícil se acostumar com as falas de Maldanado, é preciso entender que o que ele considera bom pra nós é totalmente destrutivo, porém essa forma de escrita escolhida por C. S. Lewis torna a abordagem do assunto bastante rica e aprofundada.
 
 Este livro me forneceu vários momentos de reflexões pessoais sobre as tentações e me permitiu identificar problemas reais comparando a minha vida cristã com as situações propostas para que o tentador Vermelindo fizesse seu paciente passar. As estratégias do maligno, investidas contra o Cristianismo e até mesmo os pontos fracos do inimigo aparecem de forma brilhante nas cartas, o que permite nos prepararmos para as batalhas da vida cristã. O texto nos ajuda a compreender a mente dos tentadores concordando com uma perspectiva bíblica e teológica do assunto, é de grande ajuda para a edificação e crescimento do cristão.
+
+---
+
+##  Mais que uma obsessão – John White
+
+<center>
+<img src="images/mais.jpeg" width="200" /> 
+</center>
+
+Este livro trata da caminhada cristã, dos passos percorridos por aqueles que entregam suas vidas a Cristo e se tornam peregrinos. São apresentadas diversas situações e exemplos de pessoas (personagens bíblicos ou não) que viveram a fé cristã, por meio dos quais são feitas reflexões sobre o sofrimento dos cristãos e as promessas de Deus. 
+Ao abordar o caminho da cruz o autor apresenta a ideia de que percorrer este caminho não significa abdicar todo o prazer, mas viver tendo Deus como o centro de todas as coisas. Ele estabelece a diferença entre o prazer e a lascívia: A lascívia surge quando o prazer se torna um fim em si mesmo ou quando ele é mais importante do que obedecer a Deus. O autor também comenta a parábola do vendedor de pérolas que encontrou uma pérola de grande valor e vendeu tudo quanto possuía para adquiri-la. Aqui a reflexão é que tudo depende do valor da pérola. Só a fé verdadeira nos faz andar pelo caminho da cruz, se sabemos o valor do céu e não deixamos tudo aqui é porque talvez não acreditemos de verdade.
+
+John White também faz uma analogia com sua vida em outros países ao fato de um cristão ser cidadão do céu e não da Terra. Ele diz que ninguém se sente totalmente à vontade quando está fora de sua terra e dá como exemplo seu próprio lar que era a Inglaterra. A partir disso o autor constrói a ideia de que o cristão não deve se importar com as riquezas desse mundo, ele argumenta que Jesus não simplifica a questão da pobreza voluntária, não devemos servir ao dinheiro mas existem pequenas situações delicadas. O tesouro no céu não se compra com dólares, é preciso investir tempo e trabalho no reino e diante disso, quais são as nossas prioridades? Temos investido tempo para o trabalho do Senhor ou usado desculpas como a de se casar primeiro, ter um emprego melhor, estar mais preparado?
+
+Por fim é abordado também a questão do sofrimento na vida do crente em Jesus, os diferentes tipos de sofrimento que podem ser devido ao pecado, à perseguição ou sofrimentos comuns a todos os homens. John diz que Deus não pede desculpas por nos fazer sofrer mesmo que duvidemos do seu amor, Ele nos deixou a honra do sofrimento porque nos deu a oportunidade de fazer escolhas reais com decisões reais. Sobre o sofrimento de Cristo, o livro comenta que Jesus não suportou a cruz por que houvesse alguma virtude no sofrimento, ele fez isso porque era o preço a se pagar pelos nossos pecados. Embora fosse pobre não há indícios de que Ele tenha aberto mão de bens para se tornar mais espiritual ou receber virtude, aliás Ele foi acusado de glutão e beberrão.
+
+Este livro me forneceu vários momentos de reflexões pessoais sobre a minha jornada com Deus e me permitiu identificar falhas no meu compromisso e dedicação em relação ao reino. Também pude perceber o quão distante estão as dificuldades enfrentadas por mim enquanto cristão se comparadas aos irmãos que vivem em países em que o evangelho é perseguido, como os chineses citados no livro. Um ponto que dificultou a compreensão do livro foi que o autor aborda diferentes assuntos ao longo dos capítulos e não deixa muito claro a conexão entre todos os tópicos comentados. Uma característica positiva de John White é que o autor escreve a partir de suas experiências e tenta colocar sua vivência no livro, encurtando a distância entre o leitor e as ideias transmitidas.
+
+---
+
+## A treliça e a videira - Colin Marshall e Tony Payne
+
+<center>
+<img src="images/trelica.jpeg" width="200" /> 
+</center>
+
+"A Treliça e a Videira", de Colin Marshall e Tony Payne, é uma obra notável que aborda a dinâmica e a estrutura do ministério cristão, oferecendo uma visão clara e prática sobre como as igrejas podem crescer de maneira saudável e sustentável. A metáfora central do livro, comparando a treliça (a estrutura) com a videira (o crescimento), serve como um poderoso recurso didático para explicar a interdependência entre organização e vida espiritual na igreja.
+
+Os autores argumentam que, muitas vezes, as igrejas se concentram excessivamente na construção e manutenção da treliça, ou seja, das estruturas e programas, em detrimento do cultivo da videira, que representa o crescimento espiritual e discipulado dos membros. Eles propõem um cenário em que a treliça serve à videira, criando um ambiente que facilita e sustenta o crescimento espiritual genuíno. Marshall e Payne enfatizam a importância do discipulado intencional e da formação de líderes que possam multiplicar esse trabalho, tornando a missão da igreja mais eficaz e alinhada com os ensinamentos bíblicos. O livro é enriquecido com exemplos práticos e orientações claras, tornando-o acessível tanto para líderes experientes quanto para aqueles que estão iniciando no ministério. 
+"A Treliça e a Videira" é uma leitura essencial para qualquer pessoa envolvida no ministério cristão. Ele desafia os líderes a reavaliar suas prioridades e a focar no que realmente importa para o Reino de Deus: o crescimento espiritual e o discipulado. Com sua abordagem equilibrada e prática, Marshall e Payne oferecem um recurso valioso que pode aperfeiçoar a maneira como as igrejas operam e se desenvolvem, promovendo uma cultura de crescimento espiritual sustentado e impactante.
+
+As reflexões teológicas são profundas, mas apresentadas de forma que se conectam diretamente com as práticas diárias da igreja, oferecendo um guia que é ao mesmo tempo inspirador e aplicável. Marshall e Payne trazem uma abordagem recheada de exemplos que aproximam a tese ensinada da realidade. Além disso, é positiva a preocupação dos autores em enfatizar a importância do sermão, sendo necessário embora não suficiente para a edificação da igreja. As citações de Lutero e Richard Baxter são excelentes e enriquecem bastante o texto. 
+Como pontos negativos, cabe apontar que o livro é extenso demais para o conteúdo abordado, o que acaba por resultar em uma repetição de ideias. A tese central de que a igreja deve focar no treinamento de pessoas e que os discípulos farão novos discípulos é demasiadamente reiterada ao longo do texto.
+
+---
+
+## A comunidade cativante - Mark Denver e Jamie Dunlop
+
+<center>
+<img src="images/comunidade.jpeg" width="200" /> 
+</center>
+
+O livro “A comunidade cativante: onde o poder de Deus torna uma igreja atraente” é escrito pelo pastor associado da igreja Capitol Hill Baptist Church Jamie Dunlop a partir dos ensinamentos e sob orientação de seu pastor titular Mark Denver. Os autores tratam de ensinamentos com base nas experiências de sua igreja local e em textos bíblicos que permitam o desenvolvimento de uma igreja que seja atraente exclusivamente por causa do evangelho. A abordagem traz uma grande ênfase na necessidade de que se construa uma comunidade de discípulos que não seja baseada nos interesses em comum, faixa etária ou qualquer característica dos membros, mas somente no fato de serem servos de Cristo. Há ainda instruções sobre o desenvolvimento da igreja local tendo como pontos centrais a pregação expositiva e a oração comunitária.
+
+As reflexões propostas no livro sobre o planejamento da igreja, a oração e pregação expositiva são interessantes. Sobre a estruturação e planejamento das atividades da comunidade, os autores demonstram zelo pela centralidade da Palavra e uma grande preocupação com que eles chamam de “evangelho mais”. Há até mesmo uma demasiada repetição de ideias e argumentos, principalmente com relação à esta tese central de que a igreja não deve reunir pessoas por algo mais, além do evangelho. 
+
+O incentivo a oração principalmente coletiva e as diretrizes apresentadas são bons pontos de partida para fomentarem novas reuniões de oração na comunidade local. Por outro lado, os textos bíblicos apresentados para sustentar o argumento de que a oração em conjunto merece destaque sobre a oração individual não são muito convincentes. Por exemplo, enfatiza-se o uso da primeira pessoa do plural na oração ensinada por Jesus, mas na mesma passagem bíblica o Senhor orienta os discípulos a orarem sozinhos em seus quartos. A respeito da pregação expositiva, os ensinamentos são bastante ricos sobre como a igreja precisa ser equipada para que cada membro esteja apto a testemunhar da Palavra.
