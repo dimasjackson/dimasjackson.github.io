@@ -6,6 +6,31 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - header.autohide
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  icon:
+    logo: material/account-tie
+  language: pt
 site_url: https://dimasjackson.github.io/
 
 nav:
@@ -33,5 +58,19 @@ extra_javascript:
   - 'scripts/custom.js'
 
 plugins:
-  - search
-  - minify
+  - search:
+      lang:
+        - pt
+        - en
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+  - social:
+      cards_color:
+        fill: "#4051b5"
+        text: "#ffffff"
+  - tags
+  - git-revision-date-localized:
+      type: datetime
+      locale: pt
