@@ -1,45 +1,45 @@
-# Projetos
+# Projects
 
-## Meus Projetos
+## My Projects
 
-Abaixo, os principais projetos organizados em tópicos curtos: Situação, Ação e Resultado.
-
----
-
-### Solução para correção automática de código com Gen AI
-
-**Situação:** O novo padrão de CNPJ alfanumérico exigiu adaptações em diversos sistemas que processam CNPJ, tornando obsoletos os códigos que validam apenas o formato numérico tradicional.
-
-**Ação:** Desenhei uma aplicação baseada em um agente de IA generativa, capaz de localizar trechos de código que processam CNPJ e sugerir correções automáticas para aceitar o novo padrão alfanumérico.
-
-**Resultado:** A solução acelerou a adaptação dos sistemas, reduzindo erros e retrabalho, e garantiu conformidade com o novo padrão de CNPJ de forma automatizada e eficiente.
+Below are the main projects organized in short topics: Situation, Action, and Result.
 
 ---
 
-### Implementação de Grafos de Conhecimento
+### Automated Code Correction Solution with Gen AI
 
-**Situação:** Necessidade de integrar e gerenciar dados de diferentes sistemas, facilitando a descoberta e o compartilhamento de informações na organização.
+**Situation:** The new alphanumeric CNPJ (Brazilian Company ID) standard required adaptations in various systems that process CNPJ, making obsolete the codes that only validate the traditional numeric format.
 
-**Ação:** Conduzi um projeto de prova de conceito e um piloto de quatro meses para implementar um grafo de conhecimento escalável e interoperável.
+**Action:** I designed an application based on a generative AI agent, capable of locating code snippets that process CNPJ and suggesting automatic corrections to accept the new alphanumeric standard.
 
-**Resultado:** A integração de dados tornou-se mais fluida, melhorando a descoberta de informações e o compartilhamento de conhecimento. O projeto está pronto para produção, oferecendo uma solução robusta para gestão de dados.
-
----
-
-### Gen AI Chat para Dados Empresariais
-
-**Situação:** Usuários precisavam de uma forma mais intuitiva de acessar informações no Grafo de Conhecimento Empresarial, sem depender de consultas técnicas.
-
-**Ação:** Implementei um agente LangChain na plataforma Wikibase, permitindo perguntas e respostas em linguagem natural.
-
-**Resultado:** Usuários passaram a interagir de forma conversacional com o sistema, aumentando o engajamento e a eficiência no acesso a dados, sem necessidade de aprender SPARQL ou recorrer a analistas.
+**Result:** The solution accelerated system adaptation, reducing errors and rework, and ensured compliance with the new CNPJ standard in an automated and efficient way.
 
 ---
 
-### Extração, Transformação e Carga (ETL) de Dados
+### Knowledge Graph Implementation
 
-**Situação:** As equipes demandavam dados de alta qualidade, entregues rapidamente e em ambiente seguro para análises.
+**Situation:** Need to integrate and manage data from different systems, facilitating information discovery and sharing within the organization.
 
-**Ação:** Estruturei e implementei processos de ETL padronizados, promovendo Governança e Conformidade de Dados.
+**Action:** Led a proof of concept project and a four-month pilot to implement a scalable and interoperable knowledge graph.
 
-**Resultado:** A entrega de dados tornou-se mais eficiente e confiável, aumentando a confiança nas análises e padronizando políticas de dados na organização.
+**Result:** Data integration became more fluid, improving information discovery and knowledge sharing. The project is ready for production, offering a robust solution for data management.
+
+---
+
+### Gen AI Chat for Enterprise Data
+
+**Situation:** Users needed a more intuitive way to access information in the Enterprise Knowledge Graph, without relying on technical queries.
+
+**Action:** Implemented a LangChain agent on the Wikibase platform, enabling natural language questions and answers.
+
+**Result:** Users began to interact conversationally with the system, increasing engagement and efficiency in data access, without the need to learn SPARQL or rely on analysts.
+
+---
+
+### Data Extraction, Transformation, and Loading (ETL)
+
+**Situation:** Teams demanded high-quality data, delivered quickly and in a secure environment for analysis.
+
+**Action:** Structured and implemented standardized ETL processes, promoting Data Governance and Compliance.
+
+**Result:** Data delivery became more efficient and reliable, increasing confidence in analyses and standardizing data policies across the organization.
