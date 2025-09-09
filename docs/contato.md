@@ -1,12 +1,12 @@
-# Contato
+# Contact
 
-## Fale Comigo
+## Get in Touch
 
-Use as redes sociais para entrar em contato:
+Use social media to contact me:
 
 - **Email**: [dimas.oliveira@f1rst.com.br](mailto:dimas.oliveira@f1rst.com.br)
 - **LinkedIn**: [Dimas Jackson](https://www.linkedin.com/in/dimas-jackson/)
 - **GitHub**: [dimasjackson](https://github.com/dimasjackson)
 - **Instagram**: [@dimasjackson.ia](https://www.instagram.com/dimasjackson.ia/)
 
-Aguardo ansiosamente sua mensagem!
+Looking forward to your message!
