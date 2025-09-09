@@ -38,7 +38,7 @@ Previously, I worked on improving data quality/governance at one of Brazil's lar
 
 I hold a PhD degree from São Paulo State University (UNESP).
 
---
+---
 
 ## Site Contents
 
