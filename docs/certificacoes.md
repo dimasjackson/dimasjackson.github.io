@@ -2,6 +2,7 @@
 
 ## Obtained Certifications
 
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/3dbdb8cc-8328-4246-aa42-19366b068794/public_url). Amazon Web Services (AWS). Issued in Nov 2024.
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/30025ddf-e9bb-4a59-a218-43134a7ab89c/linked_in_profile). Amazon Web Services (AWS). Issued in Nov 2024.
 - [Generative AI Fundamentals](https://credentials.databricks.com/89ba5272-a0cd-4e7e-9753-8ebadbb9de26)
 Databricks. Issued in Sep 2024.
