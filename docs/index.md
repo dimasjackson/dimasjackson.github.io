@@ -205,8 +205,6 @@ title: Dimas Jackson, PhD
   <p><strong>Email</strong>: <a href="mailto:dimasjac@amazon.com">dimasjac@amazon.com</a></p>
   <p><strong>Phone</strong>: +55 35 98875 5029</p>
   <p><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/dimas-jackson" target="_blank">linkedin.com/in/dimas-jackson</a></p>
-  <p><strong>GitHub</strong>: <a href="https://github.com/dimasjackson" target="_blank">github.com/dimasjackson</a></p>
-  <p><strong>GitLab</strong>: <a href="https://gitlab.com/dimas.jackson" target="_blank">gitlab.com/dimas.jackson</a></p>
 </div>
 
 > Disclaimer: The opinions expressed here are my own and do not represent the positions of Amazon, AWS, or any of its affiliates.
