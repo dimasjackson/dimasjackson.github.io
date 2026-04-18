@@ -80,13 +80,15 @@
 }
 
 .hero-avatar {
-  width: 140px;
-  height: 140px;
+  width: 140px !important;
+  height: 140px !important;
+  max-width: 140px !important;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid var(--md-default-bg-color);
   margin-bottom: 1.5rem;
   box-shadow: 0 18px 50px rgba(15, 23, 42, 0.12);
+  display: block !important;
 }
 
 .social-links {
@@ -229,10 +231,11 @@
 }
 
 .certifications-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin: 1.5rem 0 0;
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+  gap: 1.5rem !important;
+  margin: 1.5rem 0 0 !important;
+  width: 100% !important;
 }
 
 .certification-card {
@@ -250,10 +253,14 @@
 }
 
 .cert-badge {
-  width: 80px;
-  height: 80px;
+  width: 80px !important;
+  height: 80px !important;
+  max-width: 80px !important;
   object-fit: contain;
   margin-bottom: 1rem;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .certification-card h4 {
@@ -288,10 +295,11 @@
 }
 
 .publications-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 1.5rem;
-  margin: 1.5rem 0 0;
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+  gap: 1.5rem !important;
+  margin: 1.5rem 0 0 !important;
+  width: 100% !important;
 }
 
 .publication-card {
